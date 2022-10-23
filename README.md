@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**moonpatel/moonpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/* **moonpatel/moonpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 -   👋 Hi, I'm @moonpatel
 -   👀 Hi I'm interested in JavaScript, C++, MERN stack
