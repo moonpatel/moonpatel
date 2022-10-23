@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-
 **moonpatel/moonpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-   👋 Hi, I'm @moonpatel
+-   👀 Hi I'm interested in JavaScript, C++, MERN stack
+<!-- -   🔭 I’m currently working on ... -->
+-   🌱 I’m currently learning React.js
+-   👯 I’m looking to collaborate on web development
+-   🤔 I’m looking for help with open source
+<!-- -   💬 Ask me about ... -->
+-   📫 How to reach me: moonpatel2003@gmail.com
+<!-- -   😄 Pronouns: ... -->
+<!-- -   ⚡ Fun fact: ... -->
 
-  
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/moonpatel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/itsmoonpatel999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/moon-patel-1577a1229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
