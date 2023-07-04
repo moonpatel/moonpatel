@@ -5,11 +5,11 @@
 Here are some ideas to get you started: -->
 
 -   👋 Hi, I'm @moonpatel
--   👀 Hi I'm interested in JavaScript, C++, MERN stack
+-   👀 Hi I'm interested in JavaScript, MERN stack
 <!-- -   🔭 I’m currently working on ... -->
 -   🌱 I’m currently learning React.js
 -   👯 I’m looking to collaborate on web development
--   🤔 I’m looking for help with open source
+-   🤔 Interested in open source
 <!-- -   💬 Ask me about ... -->
 -   📫 How to reach me: moonpatel2003@gmail.com
 <!-- -   😄 Pronouns: ... -->
