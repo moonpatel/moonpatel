@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moon Patel</h1>
-<h3 align="center">Crafting Code with Passion</h3>
+![Header](https://github.com/moonpatel/moonpatel/assets/95487062/d7e76c7f-2f76-4a77-a3d1-b57c74d3a715)
 
 - 🔭 I’m currently working on [ChessHub](https://github.com/moonpatel/ChessHub)
 
