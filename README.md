@@ -1,4 +1,5 @@
-![Header](https://github.com/moonpatel/moonpatel/assets/95487062/d7e76c7f-2f76-4a77-a3d1-b57c74d3a715)
+![Header](https://github.com/moonpatel/moonpatel/assets/95487062/6af256e6-67d2-4630-b38c-8684bbcd91ea)
+
 
 - 🔭 I’m currently working on [ChessHub](https://github.com/moonpatel/ChessHub)
 
