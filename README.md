@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ChessHub](https://github.com/moonpatel/ChessHub)
 
-- 🌱 I’m currently learning **NextJS and AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on [ChessHub](https://github.com/moonpatel/ChessHub)
 
