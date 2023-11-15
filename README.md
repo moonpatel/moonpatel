@@ -1,9 +1,9 @@
 ![Header](https://github.com/moonpatel/moonpatel/assets/95487062/6af256e6-67d2-4630-b38c-8684bbcd91ea)
 
 
-- 🔭 I’m currently working on [ChessHub](https://github.com/moonpatel/ChessHub)
+<!-- - 🔭 I’m currently working on [ChessHub](https://github.com/moonpatel/ChessHub) -->
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on [ChessHub](https://github.com/moonpatel/ChessHub)
 
@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
