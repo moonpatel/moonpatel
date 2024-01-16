@@ -3,13 +3,13 @@
 
 <!-- - 🔭 I’m currently working on [ChessHub](https://github.com/moonpatel/ChessHub) -->
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning ****
 
-- 👯 I’m looking to collaborate on [ChessHub](https://github.com/moonpatel/ChessHub)
+<!-- - 👯 I’m looking to collaborate on [ChessHub](https://github.com/moonpatel/ChessHub) -->
 
 - 🤝 I’m looking for help with **open source**
 
-- 💬 Ask me about **web development and MERN stack**
+- 💬 Ask me about **Web development, MERN stack, OS and CN**
 
 - 📫 How to reach me **moonpatel663@gmail.com**
 
