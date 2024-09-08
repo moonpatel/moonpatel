@@ -7,12 +7,6 @@
 
 <!-- - 👯 I’m looking to collaborate on [ChessHub](https://github.com/moonpatel/ChessHub) -->
 
-- 🤝 I’m currently contributing to **open source** projects
-
-- 💬 Ask me about **Web development, MERN stack**
-
-- 📫 How to reach me **moonpatel663@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moonpatel2003" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="moonpatel2003"/></a>
