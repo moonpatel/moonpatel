@@ -1,5 +1,4 @@
-![Header](https://github.com/moonpatel/moonpatel/assets/95487062/6af256e6-67d2-4630-b38c-8684bbcd91ea)
-
+<img style="width: 100%;" src="https://github.com/user-attachments/assets/f9b82bbd-3d6f-4d75-8b22-011b4177b9c4" />
 
 <!-- - 🔭 I’m currently working on [ChessHub](https://github.com/moonpatel/ChessHub) -->
 
