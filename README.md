@@ -11,12 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/moonpatel2003" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="moonpatel2003"/></a>
 <a href="https://linkedin.com/in/moon-patel" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moon-patel"/></a>
-<a href="https://kaggle.com/moonpatel" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="moonpatel"  /></a>
-<a href="https://instagram.com/itsmoonpatel999" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="itsmoonpatel999"  /></a>
-<a href="https://medium.com/@moonpatel2003" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@moonpatel2003"  /></a>
-<a href="https://codeforces.com/profile/moonpatel999" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="moonpatel999" /></a>
-<a href="https://www.leetcode.com/moonpatel2003" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="moonpatel2003" /></a>
-<a href="https://auth.geeksforgeeks.org/user/moonpatel2003" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="moonpatel2003" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
