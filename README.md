@@ -6,11 +6,6 @@
 
 <!-- - 👯 I’m looking to collaborate on [ChessHub](https://github.com/moonpatel/ChessHub) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moonpatel2003" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="moonpatel2003"/></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Amazon_AWS-DD9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
